@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://kloideen.de/sitemap.xml
+Sitemap: https://www.kloideen.de/sitemap.xml
