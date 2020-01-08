@@ -66,7 +66,7 @@ staticDir = ["static", "../assets/others"]               # static directories
                                                       #### Home Page Info
   home_mode = "post"                                     # [post, other] home mode
   home_paginate = 6                                      # special amount of posts in each home post page
-  avatar = "images/avatar.png"                           # URL of avatar shown in home page
+  avatar = "images/avatar_400x400.png"                           # URL of avatar shown in home page
   subtitle = "kloideen.de; ideen die auf dem klo entstehen oder für's klo sind"  # subtitle shown in home page
 
   socialShare = true                                     # whether to show social share links in post page
