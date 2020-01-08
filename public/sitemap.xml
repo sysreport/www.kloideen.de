@@ -1,7 +1,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
-            <loc>https://example.com/categories/</loc>
+            <loc>https://kloideen.de/categories/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -15,7 +15,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/categories/documentation/</loc>
+            <loc>https://kloideen.de/categories/documentation/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -29,7 +29,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/hugo/</loc>
+            <loc>https://kloideen.de/tags/hugo/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -43,7 +43,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/</loc>
+            <loc>https://kloideen.de/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -57,7 +57,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/loveit-preview/</loc>
+            <loc>https://kloideen.de/loveit-preview/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -71,7 +71,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/2019/08/loveit-preview/</loc>
+            <loc>https://kloideen.de/loveit-theme-preview-and-documentation/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -85,7 +85,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/posts/</loc>
+            <loc>https://kloideen.de/posts/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -99,7 +99,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/</loc>
+            <loc>https://kloideen.de/tags/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -113,7 +113,7 @@
         </url>
     
         <url>
-            <loc>https://example.com/tags/theme/</loc>
+            <loc>https://kloideen.de/tags/theme/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -127,7 +127,21 @@
         </url>
     
         <url>
-            <loc>https://example.com/about/</loc>
+            <loc>https://kloideen.de/about/</loc>
+            
+                <lastmod>2019-08-02T11:04:49+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://kloideen.de/about-loveit/</loc>
             
                 <lastmod>2019-08-02T11:04:49+08:00</lastmod>
             
