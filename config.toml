@@ -1,4 +1,4 @@
-baseURL = "https://kloideen.de/"
+baseURL = "https://www.kloideen.de/"
 languageCode = "de"                                      # website language
 defaultContentLanguage = "de"                            # [en, zh, ...] determines which i18n file to use
 title = "kloideen.de"                                   # website title
