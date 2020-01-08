@@ -15,20 +15,6 @@
         </url>
     
         <url>
-            <loc>https://www.kloideen.de/categories/documentation/</loc>
-            
-                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
             <loc>https://www.kloideen.de/tags/hugo/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
@@ -44,34 +30,6 @@
     
         <url>
             <loc>https://www.kloideen.de/</loc>
-            
-                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://www.kloideen.de/loveit-preview/</loc>
-            
-                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://www.kloideen.de/loveit-theme-preview-and-documentation/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
@@ -113,7 +71,77 @@
         </url>
     
         <url>
+            <loc>https://www.kloideen.de/categories/testpage/</loc>
+            
+                <lastmod>2019-01-07T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/testpage/</loc>
+            
+                <lastmod>2019-01-07T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
             <loc>https://www.kloideen.de/tags/theme/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/categories/documentation/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/loveit-preview/</loc>
+            
+                <lastmod>2019-08-25T16:22:42+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/loveit-theme-preview-and-documentation/</loc>
             
                 <lastmod>2019-08-25T16:22:42+08:00</lastmod>
             
