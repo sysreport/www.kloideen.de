@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 07 Jan 2020 16:22:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 07 Jan 2019 16:22:42 +0800</lastBuildDate>
     
 	<atom:link href="https://www.kloideen.de/tags/theme/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,28 +15,10 @@
     <item>
       <title>testpage</title>
       <link>https://www.kloideen.de/testpage/</link>
-      <pubDate>Tue, 07 Jan 2020 16:22:42 +0800</pubDate>
+      <pubDate>Mon, 07 Jan 2019 16:22:42 +0800</pubDate>
       
       <guid>https://www.kloideen.de/testpage/</guid>
       <description>This is the testpage content.</description>
-    </item>
-    
-    <item>
-      <title>LoveIt Theme Preview and Documentation</title>
-      <link>https://www.kloideen.de/loveit-preview/</link>
-      <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
-      
-      <guid>https://www.kloideen.de/loveit-preview/</guid>
-      <description>&lt;p&gt;This is a &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme preview and documentation page.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>LoveIt Theme Preview and Documentation</title>
-      <link>https://www.kloideen.de/loveit-theme-preview-and-documentation/</link>
-      <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
-      
-      <guid>https://www.kloideen.de/loveit-theme-preview-and-documentation/</guid>
-      <description>&lt;p&gt;This is a &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme preview and documentation page.&lt;/p&gt;</description>
     </item>
     
   </channel>

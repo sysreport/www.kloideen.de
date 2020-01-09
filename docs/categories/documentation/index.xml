@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on kloideen.de</title>
-    <link>https://www.kloideen.de/categories/documentation/</link>
+    <link>http://localhost:1313/categories/documentation/</link>
     <description>Recent content in Documentation on kloideen.de</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sun, 25 Aug 2019 16:22:42 +0800</lastBuildDate>
     
-	<atom:link href="https://www.kloideen.de/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/categories/documentation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>LoveIt Theme Preview and Documentation</title>
-      <link>https://www.kloideen.de/loveit-preview/</link>
+      <link>http://localhost:1313/loveit-preview/</link>
       <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
       
-      <guid>https://www.kloideen.de/loveit-preview/</guid>
+      <guid>http://localhost:1313/loveit-preview/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme preview and documentation page.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>LoveIt Theme Preview and Documentation</title>
-      <link>https://www.kloideen.de/loveit-theme-preview-and-documentation/</link>
+      <link>http://localhost:1313/loveit-theme-preview-and-documentation/</link>
       <pubDate>Sun, 25 Aug 2019 16:22:42 +0800</pubDate>
       
-      <guid>https://www.kloideen.de/loveit-theme-preview-and-documentation/</guid>
+      <guid>http://localhost:1313/loveit-theme-preview-and-documentation/</guid>
       <description>&lt;p&gt;This is a &lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt&lt;/a&gt; theme preview and documentation page.&lt;/p&gt;</description>
     </item>
     
