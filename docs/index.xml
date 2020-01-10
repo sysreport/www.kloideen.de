@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>kloideen.de on kloideen.de</title>
-        <link>http://localhost:1313/</link>
+        <link>https://www.kloideen.de/</link>
         <description>Recent content in kloideen.de on kloideen.de</description>
         <generator>Hugo -- gohugo.io</generator>
         
@@ -14,17 +14,17 @@
         
             <lastBuildDate>Fri, 02 Aug 2019 11:04:49 +0800</lastBuildDate>
         
-        <atom:link href="http://localhost:1313/" rel="self" type="application/rss+xml" />
+        <atom:link href="https://www.kloideen.de/" rel="self" type="application/rss+xml" />
         
             <item>
                 <title>About LoveIt</title>
-                <link>http://localhost:1313/about/</link>
+                <link>https://www.kloideen.de/about/</link>
                 <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
                 
-                <guid>http://localhost:1313/about/</guid>
+                <guid>https://www.kloideen.de/about/</guid>
                 <description>&lt;p&gt;&lt;a href=&#34;https://github.com/dillonzq/LoveIt&#34;&gt;LoveIt :(far fa-heart):&lt;/a&gt; is a &lt;strong&gt;clean&lt;/strong&gt;, &lt;strong&gt;elegant&lt;/strong&gt; but &lt;strong&gt;advanced&lt;/strong&gt; blog theme for &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; developed by &lt;a href=&#34;https://dillonzq.com&#34;&gt;Dillon&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;It is based on the original &lt;a href=&#34;https://github.com/liuzc/LeaveIt/&#34;&gt;LeaveIt Theme&lt;/a&gt; and &lt;a href=&#34;https://github.com/liuzc/LeaveIt/&#34;&gt;KeepIt Theme&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/Apple-Devices-Preview.png&#34; alt=&#34;Hugo Theme LoveIt&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://www.kloideen.de/images/Apple-Devices-Preview.png&#34; alt=&#34;Hugo Theme LoveIt&#34;&gt;&lt;/p&gt;
 &lt;h3 id=&#34;features&#34;&gt;Features&lt;/h3&gt;
 &lt;h4 id=&#34;performance-and-seo&#34;&gt;Performance and SEO&lt;/h4&gt;
 &lt;ul&gt;
@@ -94,10 +94,10 @@
         
             <item>
                 <title>Posts</title>
-                <link>http://localhost:1313/posts/</link>
+                <link>https://www.kloideen.de/posts/</link>
                 <pubDate>Fri, 02 Aug 2019 11:04:49 +0800</pubDate>
                 
-                <guid>http://localhost:1313/posts/</guid>
+                <guid>https://www.kloideen.de/posts/</guid>
                 <description></description>
             </item>
         
