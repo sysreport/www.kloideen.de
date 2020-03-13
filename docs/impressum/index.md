@@ -1,8 +1,5 @@
----
-title: "Impressum"
-date: 2020-03-13T09:39:21+01:00
-draft: false
----
+# Impressum
+
 ### Angaben gemäß § 5 TMG  
 Thoralf Liersch  
 Hauen 28  
