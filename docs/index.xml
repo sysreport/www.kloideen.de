@@ -17,6 +17,15 @@
         <atom:link href="https://www.kloideen.de/" rel="self" type="application/rss+xml" />
         
             <item>
+                <title>Posts</title>
+                <link>https://www.kloideen.de/posts/</link>
+                <pubDate>Sat, 14 Mar 2020 12:19:00 +0800</pubDate>
+                
+                <guid>https://www.kloideen.de/posts/</guid>
+                <description></description>
+            </item>
+        
+            <item>
                 <title>Impressum</title>
                 <link>https://www.kloideen.de/impressum/</link>
                 <pubDate>Fri, 13 Mar 2020 09:39:21 +0100</pubDate>

@@ -1,6 +1,118 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
     
         <url>
+            <loc>https://www.kloideen.de/categories/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/tags/corona/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/tags/gez/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/categories/gez/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/gez-erh%C3%B6hung-trotz-corona-krise-oder-gerade-deswegen/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/tags/mpk/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/posts/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
+            <loc>https://www.kloideen.de/tags/</loc>
+            
+                <lastmod>2020-03-14T12:19:00+08:00</lastmod>
+            
+            
+                <changefreq>weekly</changefreq>
+            
+            
+                <priority>0.5</priority>
+            
+            
+        </url>
+    
+        <url>
             <loc>https://www.kloideen.de/impressum/</loc>
             
                 <lastmod>2020-03-13T09:39:21+01:00</lastmod>
@@ -32,30 +144,6 @@
             <loc>https://www.kloideen.de/about/</loc>
             
                 <lastmod>2019-08-02T11:04:49+08:00</lastmod>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://www.kloideen.de/categories/</loc>
-            
-            
-                <changefreq>weekly</changefreq>
-            
-            
-                <priority>0.5</priority>
-            
-            
-        </url>
-    
-        <url>
-            <loc>https://www.kloideen.de/tags/</loc>
             
             
                 <changefreq>weekly</changefreq>
