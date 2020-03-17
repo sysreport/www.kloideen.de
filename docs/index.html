@@ -68,8 +68,6 @@ if (!doNotTrack) {
 </script>
 
 
-        
-        <link href="https://www.kloideen.de/css/cookie.css" rel="stylesheet">
     </head>
     <body>
         <script>
@@ -392,22 +390,15 @@ if (!doNotTrack) {
         <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
         
           
-        <div id="cookiedingsbums">
-        <div id="cookiedingsbums_vintage"><div>
-        <div id="cookieinhalt">
-        <span>Ja, auch diese Webseite verwendet Cookies. </span> 
-        <a href="http://xxx.euredomain.de/euredatenschutzseite">
-        Hier erfahrt ihr alles zum Datenschutz.</a></div>
-            <span id="cookiedingsbumsCloser" onclick="document.cookie = 'hidecookiedingsbums=1;path=/';jQuery('#cookiedingsbums').slideUp()">&#10006;</span>
-        </div>
-        <script>
-            if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
-            jQuery('#cookiedingsbums').hide();
-            }
-            else{
-            jQuery('#cookiedingsbums').prependTo('body');
-            jQuery('#cookiedingsbumsCloser').show();
-            }
-        </script>
+        
+            <script type="text/javascript" src="//www.FreePrivacyPolicy.com/cookie-consent/releases/3.0.0/cookie-consent.js"></script>
+            <script type="text/javascript">
+            document.addEventListener('DOMContentLoaded', function () {
+            cookieconsent.run({"notice_banner_type":"interstitial","consent_type":"implied","palette":"light","change_preferences_selector":"#changePreferences","language":"de","website_name":"kloideen","cookies_policy_url":"https://www.kloideen.de/dsgvo/"});
+            });
+            </script>
+
+            <noscript>GDPR Cookie Consent by <a href="https://www.freeprivacypolicy.com/">Free Privacy Policy</a></noscript>
+        
     </body>
 </html>
