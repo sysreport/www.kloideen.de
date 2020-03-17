@@ -446,4 +446,4 @@ Twitter ist aktiver Teilnehmer beim EU-U.S. Privacy Shield Framework. Dieses Fra
 
 Wir hoffen, wir haben Ihnen einen grundsätzlichen Überblick über die Datenverarbeitung durch Twitter gegeben. Wir erhalten keinen Daten von Twitter und tragen auch keine Verantwortung darüber, was Twitter mit Ihren Daten macht. Falls Sie noch weitere Fragen zu diesem Thema haben, empfehlen wir Ihnen die Twitter-Datenschutzerklärung unter https://twitter.com/de/privacy.
 
-Quelle: Erstellt mit dem Datenschutz Generator von AdSimple in Kooperation mit hashtagmann.de
+Quelle: Erstellt mit dem Datenschutz Generator von AdSimple in Kooperation mit [hashtagmann.de](https://hashtagmann.de)
