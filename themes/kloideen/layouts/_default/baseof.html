@@ -8,6 +8,8 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
         <title>{{ block "title" . }}{{ .Site.Title }}{{ end }}</title>
         {{- partial "head.html" . }}
+        <!-- Custom stylesheet - for your changes -->
+        <link href="{{ .Site.BaseURL }}css/cookie.css" rel="stylesheet">
     </head>
     <body>
         <script>
@@ -25,5 +27,24 @@
             {{ partial "scripts.html" . -}}
         </div>
         <a href="#" class="dynamic-to-top" id="dynamic-to-top" data-scroll><span>&nbsp;</span></a>
+        
+          
+        <div id="cookiedingsbums">
+        <div id="cookiedingsbums_vintage"><div>
+        <div id="cookieinhalt">
+        <span>Ja, auch diese Webseite verwendet Cookies. </span> 
+        <a href="http://xxx.euredomain.de/euredatenschutzseite">
+        Hier erfahrt ihr alles zum Datenschutz.</a></div>
+            <span id="cookiedingsbumsCloser" onclick="document.cookie = 'hidecookiedingsbums=1;path=/';jQuery('#cookiedingsbums').slideUp()">&#10006;</span>
+        </div>
+        <script>
+            if(document.cookie.indexOf('hidecookiedingsbums=1') != -1){
+            jQuery('#cookiedingsbums').hide();
+            }
+            else{
+            jQuery('#cookiedingsbums').prependTo('body');
+            jQuery('#cookiedingsbumsCloser').show();
+            }
+        </script>
     </body>
 </html>
